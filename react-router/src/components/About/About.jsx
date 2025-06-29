@@ -7,8 +7,9 @@ export default function About() {
         <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
           <div className="md:w-5/12 lg:w-5/12">
             <img
-              src="https://unsplash.com/photos/cyclists-ride-on-a-scenic-road-near-sunset-oBCZ1YxydGQ"
+              src="https://images.unsplash.com/photo-1750967991618-7b64a3025381?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Team working"
+              className="w-80 h-60 object-cover rounded-lg"
             />
           </div>
           <div className="md:w-7/12 lg:w-6/12">
